@@ -1,0 +1,6 @@
+{
+  infinitive: "be",
+  past: "was",
+  past2: "were",
+  participle: "was"
+}
